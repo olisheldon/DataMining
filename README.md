@@ -7,12 +7,13 @@
 
 Classifying grayscale images of objects using classical machine learning methods.
 
-![](https://github.com/olisheldon/DataMining/blob/main/Image%20Assets/ImagePatches.png)
+![](https://github.com/olisheldon/DataMining/blob/main/Image%20Assets/ObjectClassificationImg.png)
+
 
 
 ## Cell image regression task
 
-![](https://github.com/olisheldon/DataMining/blob/main/Image%20Assets/ObjectClassificationImg.png)
+![](https://github.com/olisheldon/DataMining/blob/main/Image%20Assets/ImagePatches.png)
 
 ### CellImageRegressionPart1.ipynb
 
