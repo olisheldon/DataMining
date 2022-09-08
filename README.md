@@ -27,7 +27,7 @@ Data analysis.
 Feature extraction, classical regression, and evaluating various architectures of convolutional neural networks including the use of transfer learning.
 
 
-##Installation
+## Installation
 ```bash
 pip install pandas
 pip install scikit-image
